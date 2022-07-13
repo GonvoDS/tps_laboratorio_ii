@@ -1,0 +1,12 @@
+C:\Users\Lara\Desktop\Programacion II Gon\Tp1 Gonzalo de Salvo\Tp1 Gonzalo de Salvo\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Lara\Desktop\Programacion II Gon\Tp1 Gonzalo de Salvo\Tp1 Gonzalo de Salvo\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Lara\Desktop\Programacion II Gon\Tp1 Gonzalo de Salvo\Tp1 Gonzalo de Salvo\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Lara\Desktop\Programacion II Gon\Tp1 Gonzalo de Salvo\Tp1 Gonzalo de Salvo\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Lara\Desktop\Programacion II Gon\Tp1 Gonzalo de Salvo\Tp1 Gonzalo de Salvo\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lara\Desktop\Programacion II Gon\Tp1 Gonzalo de Salvo\Tp1 Gonzalo de Salvo\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Lara\Desktop\Programacion II Gon\Tp1 Gonzalo de Salvo\Tp1 Gonzalo de Salvo\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Lara\Desktop\Programacion II Gon\Tp1 Gonzalo de Salvo\Tp1 Gonzalo de Salvo\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lara\Desktop\Programacion II Gon\Tp1 Gonzalo de Salvo\Tp1 Gonzalo de Salvo\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Lara\Desktop\Programacion II Gon\Tp1 Gonzalo de Salvo\Tp1 Gonzalo de Salvo\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+C:\Users\Lara\Desktop\Programacion II Gon\Tp1 Gonzalo de Salvo\Tp1 Gonzalo de Salvo\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Lara\Desktop\Programacion II Gon\Tp1 Gonzalo de Salvo\Tp1 Gonzalo de Salvo\Entidades\obj\Debug\net5.0\ref\Entidades.dll
